@@ -1,12 +1,3 @@
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 23 14:17:24 2019
-
-@author: Mehul
-"""
-
-
 import math
 import os
 from collections import deque
